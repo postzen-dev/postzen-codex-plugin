@@ -1,0 +1,47 @@
+{
+  "name": "postzen",
+  "version": "1.2.0",
+  "description": "Schedule and publish social media posts across X, Instagram, TikTok, LinkedIn, Facebook, YouTube, Threads, Pinterest, Bluesky, and Telegram from Codex via PostZen's hosted MCP server, with posting queues and analytics reports.",
+  "author": {
+    "name": "PostZen",
+    "url": "https://www.postzen.dev"
+  },
+  "homepage": "https://www.postzen.dev",
+  "repository": "https://github.com/postzen-dev/postzen-codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "postzen",
+    "social-media",
+    "scheduling",
+    "publishing",
+    "analytics",
+    "marketing",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "PostZen",
+    "shortDescription": "Schedule and publish social media posts across 10 platforms",
+    "longDescription": "PostZen connects Codex to your social accounts through PostZen's hosted MCP server. Draft and adapt content per platform, upload media, publish now or schedule for later, fill recurring posting queues at your best-performing times, connect new accounts, and pull analytics reports for X, Instagram, TikTok, LinkedIn, Facebook, YouTube, Threads, Pinterest, Bluesky, and Telegram.",
+    "developerName": "PostZen",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://www.postzen.dev",
+    "privacyPolicyURL": "https://www.postzen.dev/privacy",
+    "termsOfServiceURL": "https://www.postzen.dev/terms",
+    "defaultPrompt": [
+      "Use PostZen to schedule this announcement on LinkedIn and X for tomorrow at 9am",
+      "Use PostZen to show my upcoming queue and fill the empty slots",
+      "Use PostZen to summarize how my posts performed in the last 30 days"
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "screenshots": []
+  }
+}

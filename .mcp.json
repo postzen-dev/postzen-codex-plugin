@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "postzen": {
+      "type": "http",
+      "url": "https://mcp.postzen.dev/mcp",
+      "oauth_resource": "https://mcp.postzen.dev/mcp"
+    }
+  }
+}
