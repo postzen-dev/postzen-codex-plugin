@@ -2,6 +2,10 @@
 
 All notable changes to this plugin will be documented here.
 
+## 1.2.2 — tagged links
+
+Links to postzen.dev and the PostZen dashboard in the README and the connect skill now carry UTM parameters naming the plugin, so PostZen can tell which plugin a sign-up came from. No changes to skills, commands or the MCP connection.
+
 ## 1.2.1 — skill corrections
 
 Factual fixes to the four skills, verified against the MCP tool schemas. No packaging changes.

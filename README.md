@@ -35,7 +35,7 @@ Here `./plugins/postzen` is the cloned repository. Then enable PostZen from Code
 
 On first use, Codex prompts you to sign in to PostZen in the browser. Approve access and choose which profiles to expose; there is no API key to paste.
 
-Don't have a PostZen account? Sign up at [postzen.dev](https://www.postzen.dev) and connect your social accounts in the [dashboard](https://app.postzen.dev) — or let Codex walk you through it with the `postzen-connect` skill.
+Don't have a PostZen account? Sign up at [postzen.dev](https://www.postzen.dev/?utm_source=codex&utm_medium=plugin&utm_campaign=postzen-codex-plugin) and connect your social accounts in the [dashboard](https://app.postzen.dev/?utm_source=codex&utm_medium=plugin&utm_campaign=postzen-codex-plugin) — or let Codex walk you through it with the `postzen-connect` skill.
 
 ### Headless / CI use
 
@@ -111,7 +111,7 @@ git clone https://github.com/postzen-dev/postzen-codex-plugin
 
 ## Links
 
-- [PostZen](https://www.postzen.dev) · [Dashboard](https://app.postzen.dev) · [API docs](https://docs.postzen.dev) · [Status](https://status.postzen.dev)
+- [PostZen](https://www.postzen.dev/?utm_source=codex&utm_medium=plugin&utm_campaign=postzen-codex-plugin) · [Dashboard](https://app.postzen.dev/?utm_source=codex&utm_medium=plugin&utm_campaign=postzen-codex-plugin) · [API docs](https://docs.postzen.dev) · [Status](https://status.postzen.dev)
 - Prefer a raw API? See the [agent quickstart](https://www.postzen.dev/agent-quickstart.md), the [Node SDK](https://www.npmjs.com/package/@postzen/node), [Python SDK](https://pypi.org/project/postzen-sdk/), or [CLI](https://www.npmjs.com/package/@postzen/cli).
 - Using Claude Code instead? See the [PostZen Claude Code plugin](https://github.com/postzen-dev/postzen-claude-plugin).
 

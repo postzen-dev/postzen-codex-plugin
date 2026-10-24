@@ -25,4 +25,4 @@ Walk the user through linking a social account so posts can target it, using the
 ## Cautions
 
 - Never ask for or handle the user's social media passwords, app passwords, or tokens directly; the browser-based connect flow is the only path.
-- If a connection repeatedly fails, point the user to the PostZen dashboard (https://app.postzen.dev) where the same flow exists with more error detail.
+- If a connection repeatedly fails, point the user to the PostZen dashboard (https://app.postzen.dev/?utm_source=codex&utm_medium=plugin&utm_campaign=postzen-codex-plugin&utm_content=connect_skill) where the same flow exists with more error detail.
